@@ -1,0 +1,67 @@
+{
+    "evento": [
+        {
+            "id": "1",
+            "title": "Indústria Club Rio de Janeiro",
+            "description": "A famosa festa da fábrica!",
+            "details": "Pensou que não íamos dar o nome nesse final de semana?",
+            "name": "Festa 1",
+            "startDateEvent": "2020-11-20T19:00:00.000Z",
+            "endDateEvent": "2020-11-20T20:00:00.000Z",
+            "url": "https://industria-club-cards.s3-sa-east-1.amazonaws.com/2021/festa1.jpg",
+            "address": {
+                "city": "São Paulo",
+                "district": "SP",
+                "street": "Av Paulista",
+                "number": "123 A",
+                "complement": "APTO 1000",
+                "zipCode": "01514000",
+                "neignborhood": "Bela Vista",
+                "latitude": -23.5856,
+                "longitude": -46.6713647
+            },
+            "tickets": [
+                {
+                    "id": "1",
+                    "name": "Vip",
+                    "quantity": 100,
+                    "availableQuantity": 10,
+                    "startDateSalesTicket": "2020-11-20T19:00:00.000Z",
+                    "endDateSalesTicket": "2020-11-20T20:00:00.000Z",
+                    "amount": 0,
+                    "price": 0
+                },
+                {
+                    "id": "2",
+                    "name": "Pista",
+                    "quantity": 1000,
+                    "availableQuantity": 10,
+                    "amount": 0,
+                    "startDateSalesTicket": "2020-11-20T19:00:00.000Z",
+                    "endDateSalesTicket": "2020-11-20T20:00:00.000Z",
+                    "price": 90
+                },
+                {
+                    "id": "3",
+                    "name": "Camarote",
+                    "quantity": 2000,
+                    "availableQuantity": 10,
+                    "amount": 0,
+                    "startDateSalesTicket": "2020-11-20T19:00:00.000Z",
+                    "endDateSalesTicket": "2020-11-20T20:00:00.000Z",
+                    "price": 100
+                },
+                {
+                    "id": "4",
+                    "name": "Backstage",
+                    "quantity": 2000,
+                    "availableQuantity": 10,
+                    "amount": 0,
+                    "startDateSalesTicket": "2020-11-20T19:00:00.000Z",
+                    "endDateSalesTicket": "2020-11-20T20:00:00.000Z",
+                    "price": 110
+                }
+            ]
+        }
+    ]
+}
