@@ -4,12 +4,7 @@
             "id": "1",
             "title": "Indústria Club Rio de Janeiro",
             "description": "A famosa festa da fábrica!",
-            "modify_body": [
 
-                "<input type='text' id='inputtext'></input>",
-                "<button onclick=drawSomeText('ExampleCanvas')></button>"
-
-            ],
             "details": "A queridinha de São Paulo está de volta à terra da garoa! Sim a nossa quinzena mais esperada chegou e promete surpreender ainda mais o nosso belíssimo público que nos acompanha fielmente. Como sempre vamos trazer aquela mega estrutura que vocês já conhecem, com os melhores DJs do Brasil e a vibe garantida do começo ao fim! Vocês ainda tem dúvida? Acho que não né?! Vem para Industria a sua melhor opção! Estrutura de Festival; ✅ Open Bar; ✅ Palco; ✅ Bar; ✅ Lounge; ✅ Chapelaria; ✅ Food truck; ✅ DJs renomados; ✅ Estacionamento com valet. Segura, que ainda tem mais! \uD83D\uDE0C A Industria disponibilizará uma mega estrutura, tomando os cuidados contra o Covid-19. \uD83D\uDE37 Contamos com ambulatório e socorristas, com equipes de seguranças treinadas e especializadas para atendê-los da melhor forma possível. Isso não tem preço! ⛑ *Traga sua máscara, disponibilizaremos álcool em gel para sua maior proteção * Venda de bebidas e alimentação no local. Atendendo a pedidos, haverá chapelaria (R$10,00). Incluindo também as nossas bebidas por conta da casa, SIMMMM... Temos Open Bar!!! (Água, suco, energético, vodka). \uD83C\uDF78\uD83C\uDFA7 É recomendado que venham com seus apps de transporte de preferência (Uber, Cabify, 99), porém contaremos com estacionamento no local no valor de R$30,00. \uD83D\uDCCDEndereço da festa será divulgado momentos antes dessa vibe incrível. \uD83D\uDCCD Permita-se ter algo que você merece. O melhor! \uD83E\uDD47 Entre em contato para mais infos. SAC Industria\uD83D\uDCCC: (11)99148-2472 ou (11)99276-1187 ♾ Deixe nossa energia te conduzir!!♾ ESPERAMOS VOCÊS!!\uD83D\uDCC0",
 
             "name": "Festa 1",
@@ -68,6 +63,166 @@
                     "endDateSalesTicket": "2020-11-20T20:00:00.000Z",
                     "price": 110
                 }
+            ]
+        }
+    ],
+
+    "ticket": [
+        {
+            "id": "1",
+            "title": "Industria Club - São Paulo",
+            "description": "A famosa festa da fábrica!",
+            "startDateEvent": "2021-03-04T00:00:00.000Z",
+            "endDateEvent": "2021-03-05T00:00:00.000Z",
+            "requestNumber": "4AVBGTU889",
+            "url": "https://industria-club-cards.s3-sa-east-1.amazonaws.com/2021/festa1.jpg",
+            "address": {
+                "city": "São Paulo",
+                "district": "SP",
+                "street": "Av Paulista",
+                "number": "123 A",
+                "complement": "APTO 1000",
+                "zipCode": "01514000",
+                "neignborhood": "Bela Vista",
+                "latitude": -23.5856,
+                "longitude": -46.6713647
+            },
+            "QRCodes": [
+                {
+                    "id": "1",
+                    "name": "Camarote",
+                    "personName": "Bruno Lopes",
+                    "ticketName": "Indústria Club",
+                    "eventName": "Indústria Club SP",
+                    "ticketUsed": false,
+                    "dateUsed": "",
+                    "price": 100
+                },
+
+                {
+                    "id": "2",
+                    "name": "Camarote",
+                    "personName": "Gustavo Vargas",
+                    "ticketName": "Indústria Club",
+                    "eventName": "Indústria Club SP",
+                    "ticketUsed": false,
+                    "dateUsed": "",
+                    "price": 100
+                }
+
+            ]
+        },
+
+        {
+            "id": "2",
+            "title": "Indústria Club Rio de Janeiro",
+            "description": "A famosa festa da fábrica!",
+            "startDateEvent": "2021-03-09T10:00:00.000Z",
+            "endDateEvent": "2021-03-10T06:00:00.000Z",
+            "requestNumber": "4AVBGTU888",
+            "url": "https://industria-club-cards.s3-sa-east-1.amazonaws.com/2021/festa2.jpg",
+            "address": {
+                "city": "Rio de Janeiro",
+                "district": "RJ",
+                "street": "Av Atlântica",
+                "number": "0800 A",
+                "complement": "APTO 1000",
+                "zipCode": "22021-000",
+                "neignborhood": "Rio de Janeiro",
+                "latitude": -23.5856,
+                "longitude": -46.6713647
+            },
+            "QRCodes": [
+                {
+                    "id": "1",
+                    "name": "Vip",
+                    "personName": "Bruno Lopes",
+                    "ticketName": "Indústria Club",
+                    "eventName": "Indústria Club RJ",
+                    "ticketUsed": false,
+                    "dateUsed": "",
+                    "price": 0
+                }
+
+            ]
+        },
+
+        {
+            "id": "3",
+            "title": "Industria Club - São Paulo",
+            "description": "A famosa festa da fábrica!",
+            "startDateEvent": "2020-12-31T10:00:00.000Z",
+            "endDateEvent": "2021-01-01T06:00:00.000Z",
+            "requestNumber": "4AVBGTU887",
+            "url": "https://industria-club-cards.s3-sa-east-1.amazonaws.com/2021/festa1.jpg",
+            "address": {
+                "city": "São Paulo",
+                "district": "SP",
+                "street": "Av Paulista",
+                "number": "123 A",
+                "complement": "APTO 1000",
+                "zipCode": "01514000",
+                "neignborhood": "Bela Vista",
+                "latitude": -23.5856,
+                "longitude": -46.6713647
+            },
+            "QRCodes": [
+                {
+                    "id": "1",
+                    "name": "Camarote",
+                    "personName": "Bruno Lopes",
+                    "ticketName": "Indústria Club",
+                    "eventName": "Indústria Club SP",
+                    "ticketUsed": true,
+                    "dateUsed": "",
+                    "price": 100
+                },
+
+                {
+                    "id": "2",
+                    "name": "Camarote",
+                    "personName": "Gustavo Vargas",
+                    "ticketName": "Indústria Club",
+                    "eventName": "Indústria Club SP",
+                    "ticketUsed": true,
+                    "dateUsed": "",
+                    "price": 100
+                }
+
+            ]
+        },
+
+        {
+            "id": "4",
+            "title": "Indústria Club Rio de Janeiro",
+            "description": "A famosa festa da fábrica!",
+            "startDateEvent": "2020-12-12T10:00:00.000Z",
+            "endDateEvent": "2020-12-12T06:00:00.000Z",
+            "requestNumber": "4AVBGTU886",
+            "url": "https://industria-club-cards.s3-sa-east-1.amazonaws.com/2021/festa2.jpg",
+            "address": {
+                "city": "Rio de Janeiro",
+                "district": "RJ",
+                "street": "Av Atlântica",
+                "number": "0800 A",
+                "complement": "APTO 1000",
+                "zipCode": "22021-000",
+                "neignborhood": "Rio de Janeiro",
+                "latitude": -23.5856,
+                "longitude": -46.6713647
+            },
+            "QRCodes": [
+                {
+                    "id": "1",
+                    "name": "Vip",
+                    "personName": "Bruno Lopes",
+                    "ticketName": "Indústria Club",
+                    "eventName": "Indústria Club RJ",
+                    "ticketUsed": true,
+                    "dateUsed": "",
+                    "price": 0
+                }
+
             ]
         }
     ]
