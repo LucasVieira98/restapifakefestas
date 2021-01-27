@@ -174,7 +174,7 @@
                     "ticketName": "Indústria Club",
                     "eventName": "Indústria Club SP",
                     "ticketUsed": true,
-                    "dateUsed": "",
+                    "dateUsed": "2020-12-31T11:23:00.000Z",
                     "price": 100
                 },
 
@@ -185,7 +185,7 @@
                     "ticketName": "Indústria Club",
                     "eventName": "Indústria Club SP",
                     "ticketUsed": true,
-                    "dateUsed": "",
+                    "dateUsed": "2020-12-31T11:24:00.000",
                     "price": 100
                 }
 
@@ -197,7 +197,7 @@
             "title": "Indústria Club Rio de Janeiro",
             "description": "A famosa festa da fábrica!",
             "startDateEvent": "2020-12-12T10:00:00.000Z",
-            "endDateEvent": "2020-12-12T06:00:00.000Z",
+            "endDateEvent": "2020-12-13T06:00:00.000Z",
             "requestNumber": "4AVBGTU886",
             "url": "https://industria-club-cards.s3-sa-east-1.amazonaws.com/2021/festa2.jpg",
             "address": {
@@ -219,7 +219,7 @@
                     "ticketName": "Indústria Club",
                     "eventName": "Indústria Club RJ",
                     "ticketUsed": true,
-                    "dateUsed": "",
+                    "dateUsed": "2020-12-12T10:34:00.000Z",
                     "price": 0
                 }
 
