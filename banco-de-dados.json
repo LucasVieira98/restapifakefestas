@@ -30,7 +30,7 @@
                     "availableQuantity": 10,
                     "startDateSalesTicket": "2020-11-20T19:00:00.000Z",
                     "endDateSalesTicket": "2020-11-20T20:00:00.000Z",
-                    "amount": 0,
+                    "amount": 1,
                     "price": 0
                 },
                 {
@@ -38,7 +38,7 @@
                     "name": "Pista",
                     "quantity": 1000,
                     "availableQuantity": 10,
-                    "amount": 0,
+                    "amount": 1,
                     "startDateSalesTicket": "2020-11-20T19:00:00.000Z",
                     "endDateSalesTicket": "2020-11-20T20:00:00.000Z",
                     "price": 90
@@ -48,7 +48,7 @@
                     "name": "Camarote",
                     "quantity": 2000,
                     "availableQuantity": 10,
-                    "amount": 0,
+                    "amount": 1,
                     "startDateSalesTicket": "2020-11-20T19:00:00.000Z",
                     "endDateSalesTicket": "2020-11-20T20:00:00.000Z",
                     "price": 100
@@ -58,7 +58,7 @@
                     "name": "Backstage",
                     "quantity": 2000,
                     "availableQuantity": 10,
-                    "amount": 0,
+                    "amount": 1,
                     "startDateSalesTicket": "2020-11-20T19:00:00.000Z",
                     "endDateSalesTicket": "2020-11-20T20:00:00.000Z",
                     "price": 110
